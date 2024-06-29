@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.appitem-container {
+  background-color: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  align-items: center;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.app-item-image {
+  width: 90px;
+}
+.appitem-heading {
+  font-family: Bree serif;
+  font-size: 18px;
+  font-weight: 400;
+  color: #1e293b;
+}
